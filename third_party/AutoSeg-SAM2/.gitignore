@@ -1,0 +1,4 @@
+*.pth
+*.pt
+videos/*
+output/

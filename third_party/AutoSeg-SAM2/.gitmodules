@@ -1,0 +1,6 @@
+[submodule "submodule/segment-anything-1"]
+	path = submodule/segment-anything-1
+	url = https://github.com/zrporz/segment-anything-1
+[submodule "submodule/segment-anything-2"]
+	path = submodule/segment-anything-2
+	url = https://github.com/facebookresearch/segment-anything-2.git
